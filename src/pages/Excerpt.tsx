@@ -29,7 +29,7 @@ export default function Excerpt() {
           <div className="literary-text text-black space-y-6 font-accent">
             <p>
               There are moments in life that arrive unannounced — quiet, almost ordinary — yet carry within them the
-              power to change everything. A letter that arrives on a Tuesday morning. A name mentioned in passing. A
+              power to change everything. Robert receives a phone call on Friday afternoon from a Dutch notary in Breda. A name mentioned in passing. A
               phone call from a stranger who speaks with an accent you can&apos;t quite place.
             </p>
             <p>
@@ -65,36 +65,53 @@ export default function Excerpt() {
 
           <div className="literary-text text-black space-y-6 font-accent">
             <p>
-              The phone rang at precisely ten minutes past nine on a Monday morning in November, which, as Robert Tieken would later reflect, was an entirely unremarkable time for a life to change direction. He was
-              sitting in his office on the third floor of a converted canal house in Amsterdam, staring at a spreadsheet
-              that had been staring back at him for the better part of an hour, when his mobile buzzed against the dark
-              oak of his desk.
-            </p>
-            <p>
-              The number was English — he could tell from the country code — and unfamiliar. Under normal
-              circumstances, Michael would have let it go to voicemail. He was not a man who answered unknown calls. He
-              believed, as his father had believed, that anything truly important would find its way to you in due
-              course, and anything that couldn&apos;t wait was usually something you&apos;d rather have waited for.
-            </p>
-            <p>
-              But on that particular Monday, with the rain making silver rivers of his windowpanes and the spreadsheet
-              refusing to yield any useful insight, Michael picked up.
-            </p>
-            <p>
-              &ldquo;Mr. Doesburg?&rdquo; The voice was male, English, and carried the careful enunciation of someone
-              accustomed to speaking across international lines. &ldquo;Mr. Robert Tieken?&rdquo;
-            </p>
-            <p>&ldquo;Speaking.&rdquo;</p>
-            <p>
-              &ldquo;Good morning, sir. My name is Charles Ashworth. I&apos;m a solicitor with Ashworth, Blake and
-              Partners in Cheltenham. I apologise for the unannounced call, but I&apos;m ringing on a matter of some
-              delicacy.&rdquo;
-            </p>
-            <p>
-              Michael leaned back in his chair. Solicitor. Cheltenham. Delicacy. None of these words, individually or
-              collectively, had any place in his Monday morning. He had no business in Cheltenham, no dealings with
-              English solicitors, and as far as he was aware, no matters of delicacy awaiting resolution on the other
-              side of the North Sea.
+              Monday, 4:00 PM sharp, I pressed the doorbell at the Bouvignelaan in Breda. He heard a buzzer and the door opened automatically. Behind a small counter further down the hall sat a young man who greeted me kindly and asked who I was, whether I had an appointment and with whom. I answered all his questions and looked into his deep blue eyes. His hair was slicked back with quite a bit of gel in it. He wore a tight white shirt with a few buttons open at the top. I could look right into his décolleté. As far as you can say that about a man. His fingers glided over the keyboard and then said: "You're expected and may proceed immediately, up the stairs and then the first room on the left." 
+
+"Great, thank you, and your name is?" 
+
+He answered: "Nico, sir." 
+
+"Okay, thank you, Nico." And I smiled kindly at him. 
+
+The old stairs creaked loudly and as I climbed the steep stairs, I looked at the modern art on the wall. I knocked on the first door on the left. 
+
+"Come in!" I heard, and I stepped into a modernly decorated office. 
+
+"Good afternoon, Mr. De Haas. Haanstra is my name. Pleased to meet you." 
+
+Notary Haanstra looked like an older version of the young man downstairs at the counter. 
+
+"Please have a seat, and can I offer you something to drink?" 
+
+"Well, if you have a glass of water, that would be fine, thank you." 
+
+From a water dispenser in a corner of the room, a chilled glass of water was poured for me. "Here you go." 
+
+Haanstra sat down behind his glass desk and got straight to work. "As you heard from me last Friday at the end of the day, I have been appointed as executor of the will to inform you regarding an inheritance from a distant relative. I assume you have many questions, but if I may first explain the how and what, then probably many questions will already be answered." 
+
+"That's fine," Robert answered. 
+
+Haanstra began explaining that Mrs. Masters-De Haas was a cousin from Robert's father's side. She had left for New York in the years after the war on the SS Superstar. With her parents, of whom her father was a nephew of his father, they traveled further to the Midwest, where they settled in a small town, Charlotteville. Mrs. Masters lived there her entire life. She married a certain Charlie Masters and they had a son named Mike. Mike Masters is 49 years old and lives in his parents' family home, both of whom have now passed away. Mrs. Masters specifically mentioned you in her will. A clear explanation of this is not mentioned in the papers I received from her notary. Is everything clear so far? 
+
+"Yes, so far, but what does this inheritance consist of?" 
+
+"That is for Mrs. Masters' notary to explain to you. I received an open ticket for you with the papers, so that you can go to the United States, where you will be further informed. Unfortunately, I have no more information for you." 
+
+"Okay," I said. "Thank you for the welcome and I'll see when I can make this trip. Do you have any documents and/or addresses, email or anything like that?" 
+
+"Certainly I do. You can pick that up at the counter with my son Nick. See, I thought so." 
+
+Haanstra laughed a bit and said that his son also wanted to work in the notary profession, but then he had to start from the bottom. 
+
+Robert answered that that's the best way. 
+
+"Thanks again for your time and I'll let you know when I'll be leaving for the US." 
+
+I shook his hand and left the office. Down the creaky stairs and picked up the necessary items from Nick. I thanked Nick and wished him a pleasant evening in advance. 
+
+"You too, Mr. De Haas," and he smiled kindly. 
+
+On the way home, Robert stopped by the supermarket and bought a fresh salad. Once home, he poured himself a glass of rosé and ate his salad. In his breast pocket was the photo he had taken with him, but he had completely forgotten about it. Save it for a next meeting then. There was still some evening sun and with his glass and salad he sat outside with his plate on his lap. How good I have it, he thought to himself. His shirt came off and his muscular, tanned torso absorbed some evening sun while eating. 
             </p>
             <p>&ldquo;I&apos;m listening,&rdquo; he said, because it seemed the only reasonable response.</p>
             <p className="text-center text-accent font-display text-lg mt-12">* * *</p>
