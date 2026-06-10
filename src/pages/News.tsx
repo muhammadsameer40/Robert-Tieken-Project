@@ -8,7 +8,7 @@ const newsItems = [
     date: 'May 2026',
     title: 'Distent Cousens Now Available in English',
     excerpt:
-      'After months of careful translation and editing, the English edition of "Distant Cousins" is now available worldwide. Robert is thrilled to share Michael Doesburg\'s story with a global audience.',
+      'After months of careful translation and editing, the English edition of "Distant Cousins" is now available worldwide. Robert is thrilled to share Robert de Haas story with a global audience.',
   },
   {
     date: 'April 2026',

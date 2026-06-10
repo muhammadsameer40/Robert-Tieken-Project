@@ -67,6 +67,9 @@ export default function BooksShowcase() {
             <p className="text-[#6d6d6d] text-[14px] mt-3 mb-6">
               English Edition
             </p>
+             <p className="text-[#6d6d6d] text-[14px] mt-3 mb-6">
+              Verre Neven
+            </p>
 
             {/* BUTTON */}
             <button className="h-[48px] px-7 rounded-full bg-[#0d4b46] text-white text-[15px] font-medium inline-flex items-center gap-2.5 hover:scale-[1.03] transition-all duration-300">
