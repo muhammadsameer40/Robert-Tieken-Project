@@ -23,7 +23,7 @@ const synopsisNL = {
   title: 'Verre Neven',
   subtitle: 'Nederlandse Editie',
   paragraphs: [
-    'Robert is ergens in de veertig, woont alleen in Breda, fietst elke ochtend naar zijn werk en vertelt zichzelf dat dit genoeg is. Hij heeft zijn school, zijn leerlingen, zijn beste vriend Sjoerd, en het rustige ritme van een leven dat hem past als een oude jas. Dan komt er een Telefoongesprek binnen van een notaris in Amerika. Er is een erfenis. Er is een neef. En er is een naam die hij nog nooit heeft gehoord: Mike.',
+    'Robert is ergens in de veertig, woont alleen in Breda, fietst elke ochtend naar zijn werk en vertelt zichzelf dat dit genoeg is. Hij heeft zijn school, zijn leerlingen, zijn beste vriend Sjoerd, en het rustige ritme van een leven dat hem past als een oude jas. Dan komt er een Telefoongesprek binnen van een notaris in Breda. Er is een erfenis. Er is een neef. En er is een naam die hij nog nooit heeft gehoord: Mike.',
     'Wat volgt, brengt Robert van de vlakke groene velden van Nederland naar de zonnige haven van Charlotteville, Michigan, waar hij een man ontmoet die technisch gezien een vreemde is, maar vanaf het eerste gesprek voelt als iemand die hij altijd al heeft gekend. Mike is warm, genereus en geworteld in een wereld die volledig verschilt van die van Robert. Toch loopt er iets echts tussen hen. Een gedeelde bloedlijn, een gedeelde geschiedenis waarvan geen van beiden wist dat ze die hadden, en een vriendschap die snel groeit en blijft. ',
     'Onderweg komt Robert boottochten en strandlunches tegen, een stad die uit puin is herbouwd, een carnavalskostuum dat met trots wordt gedragen, een puppy genaamd Buddy, een steward op een trans-Atlantische vlucht, en een zwemclub die meer blijkt te bevatten dan alleen goede techniek. Hij ontdekt dingen over zichzelf waar hij zichzelf nooit direct naar heeft durven kijken. En hij begint, langzaam en niet zonder moeite, zijn leven iets groters te laten worden.',
     'Verre Neven is een roman over late ontdekkingen. Over erfgoed in alle betekenissen van het woord. Over de moed die het kost om op een vliegtuig te stappen als je niet zeker weet wat er aan de andere kant wacht, en de nog grotere moed die het kost om veranderd thuis te komen. ',
@@ -45,27 +45,27 @@ export default function TheBook() {
   return (
     <section className="bg-[#d9cdb8] pt-[88px] lg:pt-[80px] pb-16 lg:pb-24 min-h-screen">
       {/* HERO HEADER */}
-<div className="relative w-full h-[260px] lg:h-[340px] overflow-hidden">
-  {/* Background */}
-  <img
-    src="https://media.base44.com/images/public/6a04eb295d2a048bc01a0caa/777755e7b_generated_d062f754.png"
-    alt="The Book"
-    className="absolute inset-0 w-full h-full object-cover"
-  />
+      <div className="relative w-full h-[260px] lg:h-[340px] overflow-hidden">
+        {/* Background */}
+        <img
+          src="https://media.base44.com/images/public/6a04eb295d2a048bc01a0caa/777755e7b_generated_d062f754.png"
+          alt="The Book"
+          className="absolute inset-0 w-full h-full object-cover"
+        />
 
-  {/* Overlay */}
-  <div className="absolute inset-0 bg-black/35" />
+        {/* Overlay */}
+        <div className="absolute inset-0 bg-black/35" />
 
-  {/* Fade Bottom */}
-  <div className="absolute bottom-0 left-0 w-full h-[150px] bg-gradient-to-b from-transparent via-[#d9cdb8]/70 to-[#d9cdb8]" />
+        {/* Fade Bottom */}
+        <div className="absolute bottom-0 left-0 w-full h-[150px] bg-gradient-to-b from-transparent via-[#d9cdb8]/70 to-[#d9cdb8]" />
 
-  {/* Title */}
-  <div className="relative z-10 flex items-center justify-center h-full">
-    <h1 className="font-serif text-white text-[42px] lg:text-[64px] font-semibold">
-      The Book
-    </h1>
-  </div>
-</div>
+        {/* Title */}
+        <div className="relative z-10 flex items-center justify-center h-full">
+          <h1 className="font-serif text-white text-[42px] lg:text-[64px] font-semibold">
+            The Book
+          </h1>
+        </div>
+      </div>
       <motion.div className="max-w-[1120px] mx-auto px-6 lg:px-10 pt-14 lg:pt-20">
         <motion.div className="flex justify-center mb-10 lg:mb-14">
           <motion.div
@@ -78,11 +78,10 @@ export default function TheBook() {
               role="tab"
               aria-selected={activeLang === 'en'}
               onClick={() => setActiveLang('en')}
-              className={`px-7 py-2.5 rounded-full text-[14px] font-medium transition-all duration-300 ${
-                activeLang === 'en'
-                  ? 'bg-[#0d4b46] text-white shadow-sm'
-                  : 'text-[#6b5d4a] hover:text-[#1a1208]'
-              }`}
+              className={`px-7 py-2.5 rounded-full text-[14px] font-medium transition-all duration-300 ${activeLang === 'en'
+                ? 'bg-[#0d4b46] text-white shadow-sm'
+                : 'text-[#6b5d4a] hover:text-[#1a1208]'
+                }`}
             >
               English
             </button>
@@ -91,11 +90,10 @@ export default function TheBook() {
               role="tab"
               aria-selected={activeLang === 'nl'}
               onClick={() => setActiveLang('nl')}
-              className={`px-7 py-2.5 rounded-full text-[14px] font-medium transition-all duration-300 ${
-                activeLang === 'nl'
-                  ? 'bg-[#0d4b46] text-white shadow-sm'
-                  : 'text-[#6b5d4a] hover:text-[#1a1208]'
-              }`}
+              className={`px-7 py-2.5 rounded-full text-[14px] font-medium transition-all duration-300 ${activeLang === 'nl'
+                ? 'bg-[#0d4b46] text-white shadow-sm'
+                : 'text-[#6b5d4a] hover:text-[#1a1208]'
+                }`}
             >
               Dutch
             </button>
@@ -112,7 +110,7 @@ export default function TheBook() {
             className="flex flex-col items-center gap-10 lg:grid lg:grid-cols-[minmax(0,320px)_1fr] lg:gap-x-14 xl:gap-x-20 lg:items-start"
           >
             <motion.div
-  className="
+              className="
     w-full
     flex
     justify-center
@@ -125,7 +123,7 @@ export default function TheBook() {
 
     self-start
   "
->
+            >
               <motion.div className="relative shrink-0">
                 <motion.div
                   className="absolute left-1/2 -translate-x-1/2 bottom-[-18px] w-[70%] h-8 bg-black/15 blur-2xl rounded-full pointer-events-none"
