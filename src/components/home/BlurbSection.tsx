@@ -41,10 +41,7 @@ export default function BlurbSection() {
               maxWidth: "760px",
             }}
           >
-            When Dutch businessman Michael Doesburg receives an unexpected
-            phone call from an English solicitor, his carefully ordered life
-            takes an extraordinary turn. What follows is a journey across
-            borders, generations, and the very meaning of belonging.
+           
           </p>
 
           {/* TAGS */}
