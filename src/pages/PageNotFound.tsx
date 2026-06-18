@@ -16,7 +16,7 @@ export default function PageNotFound() {
           <div className="space-y-3">
             <h2 className="text-2xl font-display font-medium text-foreground">Page Not Found</h2>
             <p className="font-accent italic text-lg text-muted-foreground leading-relaxed">
-              It seems this page has wandered off, much like Michael on his journey...
+              It seems this page has wandered off, much like Robert on his journey...
             </p>
           </div>
 

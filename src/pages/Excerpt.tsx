@@ -72,16 +72,16 @@ export default function Excerpt() {
             </p>
             <p>
               The number was English — he could tell from the country code — and unfamiliar. Under normal
-              circumstances, Michael would have let it go to voicemail. He was not a man who answered unknown calls. He
+              circumstances, Robert would have let it go to voicemail. He was not a man who answered unknown calls. He
               believed, as his father had believed, that anything truly important would find its way to you in due
               course, and anything that couldn&apos;t wait was usually something you&apos;d rather have waited for.
             </p>
             <p>
               But on that particular Monday, with the rain making silver rivers of his windowpanes and the spreadsheet
-              refusing to yield any useful insight, Michael picked up.
+              refusing to yield any useful insight, Robert picked up.
             </p>
             <p>
-              &ldquo;Mr. Doesburg?&rdquo; The voice was male, English, and carried the careful enunciation of someone
+              &ldquo;Mr. Tieken?&rdquo; The voice was male, English, and carried the careful enunciation of someone
               accustomed to speaking across international lines. &ldquo;Mr. Robert Tieken?&rdquo;
             </p>
             <p>&ldquo;Speaking.&rdquo;</p>
@@ -91,7 +91,7 @@ export default function Excerpt() {
               delicacy.&rdquo;
             </p>
             <p>
-              Michael leaned back in his chair. Solicitor. Cheltenham. Delicacy. None of these words, individually or
+              Robert leaned back in his chair. Solicitor. Cheltenham. Delicacy. None of these words, individually or
               collectively, had any place in his Monday morning. He had no business in Cheltenham, no dealings with
               English solicitors, and as far as he was aware, no matters of delicacy awaiting resolution on the other
               side of the North Sea.
