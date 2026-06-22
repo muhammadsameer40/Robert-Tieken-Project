@@ -27,11 +27,7 @@ export default function Excerpt() {
             Preface
           </h2>
           <div className="literary-text text-black space-y-6 font-accent">
-            <p>
-              There are moments in life that arrive unannounced — quiet, almost ordinary — yet carry within them the
-              power to change everything. A letter that arrives on a Tuesday morning. A name mentioned in passing. A
-              phone call from a stranger who speaks with an accent you can&apos;t quite place.
-            </p>
+           
             <p>
               This is the story of one such moment. It is also the story of what happens after — when curiosity
               overcomes caution, when the pull of the unknown proves stronger than the comfort of the familiar. It is,
@@ -64,12 +60,7 @@ export default function Excerpt() {
           <p className="font-accent italic text-lg text-accent text-center mb-10">The Phone Call</p>
 
           <div className="literary-text text-black space-y-6 font-accent">
-            <p>
-              The phone rang at precisely ten minutes past nine on a Monday morning in November, which, as Robert Tieken would later reflect, was an entirely unremarkable time for a life to change direction. He was
-              sitting in his office on the third floor of a converted canal house in Amsterdam, staring at a spreadsheet
-              that had been staring back at him for the better part of an hour, when his mobile buzzed against the dark
-              oak of his desk.
-            </p>
+           
             <p>
               The number was English — he could tell from the country code — and unfamiliar. Under normal
               circumstances, Robert would have let it go to voicemail. He was not a man who answered unknown calls. He
