@@ -29,16 +29,7 @@ export default function Excerpt() {
           <div className="literary-text text-black space-y-6 font-accent">
            
             <p>
-              This is the story of one such moment. It is also the story of what happens after — when curiosity
-              overcomes caution, when the pull of the unknown proves stronger than the comfort of the familiar. It is,
-              at its heart, a story about family: the one you&apos;re born into, the one you discover, and the one you
-              choose to embrace.
-            </p>
-            <p>
-              The events in these pages are fictional, but the emotions are real. I have tried to tell this story with
-              honesty — about the awkwardness of meeting strangers who share your blood, about the beauty of landscapes
-              that feel like home even when you&apos;ve never been there before, and about the quiet courage it takes to
-              open your heart to people you never knew you were missing.
+             Het is vrijdagavond en Robert stapt net zijn koude woning binnen als hij de telefoon hoort in de woonkamer. Haastig gooit hij zijn tas op de grond en snelt naar de kamer om de telefoon op te nemen. "Met Robert de Haas spreekt u," zegt hij. Aan de andere kant meldt iemand zich: "Goedenavond meneer De Haas, u spreekt met notaris Haanstra. Komt het gelegen dat ik u bel op dit tijdstip?" "Ja hoor," antwoordt Robert. "Waar gaat het over?" "Ik bel u om u te kunnen vertellen dat ik uit naam van mevrouw Masters-De Haas, als testamentexecuteur, u een erfenis mag geven. U bent bekend met mevrouw Masters-De Haas?" vraagt de notaris. "Ik zou niet weten wie dat moet zijn, eerlijk gezegd. Kunt u mij meer vertellen over deze mevrouw?" "Om u eerlijk te zeggen doet ons kantoor nooit verdere uitspraken telefonisch. Daarom zou ik u willen uitnodigen bij mij op kantoor in Breda. Komt dat gelegen voor u?" Robert antwoordt bevestigend. "Prima, dan krijgt u van mij een e-mail met gegevens. Mag ik uw e-mailadres alstublieft?" Robert geeft zijn e-mailadres aan de notaris en bedankt voor het gesprek. "Nog een fijne avond, meneer." Robert de Haas, een man van 45, wiens beide ouders door een noodlottig ongeluk om het leven waren gekomen toen hij net eenentwintig jaar was. Een diep trieste tijd. Hij had geen broers of zussen, moest alles regelen en bleef dus alleen achter. Zonder een paar goede vrienden had hij het nooit gered. Zijn maatje Sjoerd, die hij al kende sinds de lagere school, was er altijd voor hem. Sjoerds ouders hadden hem opgenomen in hun gezin. Hij en Sjoerd deelden een kamer samen, en toen uiteindelijk alle problemen qua financiën waren afgehandeld, was daar het moment geweest om op zichzelf te gaan wonen. Zijn ouderlijk huis was goed verkocht en van deze opbrengst kon hij zich een ander huis veroorloven. Sjoerds vader was een voormalig aannemer en had hem geholpen met alles wat er gedaan moest worden. Samen met hem en Sjoerd was het oude huis omgetoverd tot een klein paleisje. In de moeilijke tijd had hij ook nog eens zijn lerarenopleiding afgerond en kon op drieëntwintigjarige leeftijd zijn diploma ophalen. Daarna kon hij meteen aan de slag, omdat het een stageplek was geweest. Hij kende de andere collega's dus goed. Hij kwam weer in een warm nest terecht en dat voelde goed. De school was op fietsafstand van zijn nieuwe huis, dus dat was goed te doen. Hij werkte er nu zo'n bijna tweeëntwintig jaar. Het verveelde nog steeds niet. En nu aan het eten beginnen, dacht Robert. In de koelkast stond genoeg, dus iets snel te maken daar draaide hij zijn hand niet voor om. Als alleenstaande veertiger wist hij wat te doen. Tijdens het koken herhaalde hij nog eens het gesprek voor zichzelf en keek ernaar uit waar die erfenis nu werkelijk om ging, want hij had toch echt niet het idee dat hij deze persoon kende, laat staan ooit had ontmoet. Robert was als enig kind opgegroeid in Den Haag en Amstelveen om vervolgens met zijn ouders naar de parel van het zuiden af te reizen. In Breda, zoals deze stad wordt genoemd, is het gezellig vertoeven. Met de vele restaurants en bars en zijn vele pleintjes is het een bruisende stad. Fijn om te weten dat de notaris dan ook in Breda zit. Die avond spookten allerlei gedachten door Roberts hoofd en kon hij het maar niet loslaten wie nu die mevrouw Masters-De Haas zou zijn. Er waren ook geen familieleden meer om aan te vragen, omdat iedereen die een direct familielid kon zijn al was overleden. Robert ging met een hoofd vol vraagtekens naar bed die avond. Ronddraaiend in bed zag hij op de wekker de uren voorbijgaan. De volgende morgen werd hij wakker van het licht dat door de gordijnen heen scheen. Robert besefte dat de nacht erg kort was geweest en stond op met een moe gevoel. Slapen zou niet meer gaan omdat het zo licht was, en tja, dan moest hij er gewoon uit. Nadat hij had gedoucht en zich had aangekleed, werd er een ontbijtje van yoghurt en aardbeien klaargemaakt. Zaterdagochtend altijd boodschappen doen bij de supermarkt en even over de markt struinen naar de aanbiedingen. Een goed uur later was hij weer thuis en pakte hij zijn volle tassen uit en maakte een kop koffie klaar voor zichzelf. Zittend op de bank staarde Robert voor zich uit. Het telefoontje van gisteravond maalde door zijn hoofd. Plots bedacht hij zich dat er misschien nog iets te vinden zou kunnen zijn tussen alle papieren van zijn ouders. Het moest in ieder geval familie van vaders kant zijn, aangezien de tweede naam 'De Haas' is. Robert liep naar zolder waar hij achter het houten schot diverse verhuisdozen had staan met documenten van zijn ma en pa. De eerste doos maar eens openmaken dan, dacht hij. Hierin alleen oude familiefoto's. Sommige plakten aan elkaar. Ook een paar oude familiealbums die hij één voor één doorbladerde. Zwart-witte foto's met zijn jonge vader zittend op schoot bij zijn vader. Nog een foto met zijn vader als jonge jongen en waarschijnlijk nichtjes en neefjes. Stonden er vijf in totaal op de pic. Drie jongens en twee meisjes. De jongens in een soort marinepakje met baret en de twee meiden in een rokje met allerlei tierelantijntjes eraan. Echt van de ouderwetse foto's van vroeger. Alles piekfijn gestyled. "Ik wist werkelijk niet wie die andere kinderen waren, aangezien mijn vader enig kind was," mompelde Robert. Hij haalde deze foto uit het album om mee te nemen naar de notaris. Verder zoeken had denk ik geen zin, omdat hij echt niet wist om wie het moest gaan. Terug beneden dacht hij verder na over die foto. Op de radio speelde een nummer dat hij kende van uit de musicalfilm 'The Greatest Showman': 'Rewrite the Stars'. Een mooi nummer. Als alleenstaande had hij graag een relatie gehad, maar dat was er nooit van gekomen. Niet dat hij er niet goed uitzag of zo, want dat was volgens hem niet het geval. Maar hij had nog niet de juiste persoon tegengekomen. De gsm in zijn broekzak ging trillen en de tune van Hawaii Five-O ging af. "Met Robert, goedemorgen!" "Hé maat!" klonk het aan de andere kant. Het was Sjoerd, een van zijn maatjes die belde. "Hoe is het nu?" vroeg hij. Hij vertelde het verhaal van die dag ervoor. Sjoerd was blij voor hem en vroeg over die dame in de States. "Jonge, ik ken die hele mevrouw niet," zei Robert. "Net nog foto's en papieren doorzocht, maar heb werkelijk geen idee. Zal het maandag wel horen." "Oké dan," zei Sjoerd, "en hou me op de hoogte." "Doen we," antwoordde hij. "Ga je iets doen dit weekend?" vroeg hij. "Nee, niet echt. Moet nog wat proefwerken corrigeren, dus daar gaat mijn tijd in zitten." "Jij verdient veel te weinig, gast," zei Sjoerd. "Welke gek werkt er nu in het weekend en krijgt er niets meer voor?" "Tja, dat ben ik dus." Gelach aan de andere kant van de lijn. "Oké, man, ik laat je nu. Don't be a stranger!" riep hij nog in de verte en hing op. Sjoerd, zijn beste vriend en maatje in alles. Er was geen andere persoon in Roberts leven die hem meer bijstond dan hij. Sjoerd was er geweest toen hij het heel erg moeilijk had. Een vriend voor het leven. Hij pakte de stapel papieren en ging aan de slag. Als docent brugklas was het noodzakelijk om sommige toetsen nog handmatig te doen. Veel gaat al digitaal via tablets, maar nog niet alles. Oké, dan aan de slag. Niet vergeten maandag te melden dat ik eerder weg moet.
             </p>
             <p>This book is for anyone who has ever wondered what lies beyond the edges of their own story.</p>
             <p className="text-right italic text-black">— Robert Tieken</p>
@@ -54,43 +45,9 @@ export default function Excerpt() {
           transition={{ duration: 0.8 }}
           className="mt-16"
         >
-          <h2 className="font-display text-2xl lg:text-3xl font-semibold text-foreground mb-2 text-center">
-            Chapter One
-          </h2>
-          <p className="font-accent italic text-lg text-accent text-center mb-10">The Phone Call</p>
-
-          <div className="literary-text text-black space-y-6 font-accent">
-           
-            <p>
-              The number was English — he could tell from the country code — and unfamiliar. Under normal
-              circumstances, Robert would have let it go to voicemail. He was not a man who answered unknown calls. He
-              believed, as his father had believed, that anything truly important would find its way to you in due
-              course, and anything that couldn&apos;t wait was usually something you&apos;d rather have waited for.
-            </p>
-            <p>
-              But on that particular Monday, with the rain making silver rivers of his windowpanes and the spreadsheet
-              refusing to yield any useful insight, Robert picked up.
-            </p>
-            <p>
-              &ldquo;Mr. Tieken?&rdquo; The voice was male, English, and carried the careful enunciation of someone
-              accustomed to speaking across international lines. &ldquo;Mr. Robert Tieken?&rdquo;
-            </p>
-            <p>&ldquo;Speaking.&rdquo;</p>
-            <p>
-              &ldquo;Good morning, sir. My name is Charles Ashworth. I&apos;m a solicitor with Ashworth, Blake and
-              Partners in Cheltenham. I apologise for the unannounced call, but I&apos;m ringing on a matter of some
-              delicacy.&rdquo;
-            </p>
-            <p>
-              Robert leaned back in his chair. Solicitor. Cheltenham. Delicacy. None of these words, individually or
-              collectively, had any place in his Monday morning. He had no business in Cheltenham, no dealings with
-              English solicitors, and as far as he was aware, no matters of delicacy awaiting resolution on the other
-              side of the North Sea.
-            </p>
-            <p>&ldquo;I&apos;m listening,&rdquo; he said, because it seemed the only reasonable response.</p>
-            <p className="text-center text-accent font-display text-lg mt-12">* * *</p>
-            <p className="text-center font-body text-base text-muted-foreground mt-4">Continue reading in the full book...</p>
-          </div>
+          
+         
+        
         </motion.div>
 
         <div className="text-center mt-16">

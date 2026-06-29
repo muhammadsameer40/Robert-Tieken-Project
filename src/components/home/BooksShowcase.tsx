@@ -69,10 +69,15 @@ export default function BooksShowcase() {
             </p>
 
             {/* BUTTON */}
-            <button className="h-[48px] px-7 rounded-full bg-[#0d4b46] text-white text-[15px] font-medium inline-flex items-center gap-2.5 hover:scale-[1.03] transition-all duration-300">
-              <ShoppingCart size={16} strokeWidth={2} />
-              Buy the Book
-            </button>
+            <a
+  href="https://www.amazon.com/s?k=9798181772670&crid=1ZNYHYS8W3ZDE&sprefix=9798181772670%2Caps%2C518&ref=nb_sb_noss"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="h-[48px] px-7 rounded-full bg-[#0d4b46] text-white text-[15px] font-medium inline-flex items-center gap-2.5 hover:scale-[1.03] transition-all duration-300"
+>
+  <ShoppingCart size={16} strokeWidth={2} />
+  Buy the Book
+</a>
           </motion.div>
 
           {/* BOOK 2 */}
@@ -108,10 +113,15 @@ export default function BooksShowcase() {
             </p>
 
             {/* BUTTON */}
-            <button className="h-[48px] px-7 rounded-full bg-[#0d4b46] text-white text-[15px] font-medium inline-flex items-center gap-2.5 hover:scale-[1.03] transition-all duration-300">
-              <ShoppingCart size={16} strokeWidth={2} />
-              Buy the Book
-            </button>
+            <a
+  href="https://www.amazon.com/s?k=9798181772076&crid=YUNKBHBTJU9Z&sprefix=9798181772076%2Caps%2C362&ref=nb_sb_noss"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="h-[48px] px-7 rounded-full bg-[#0d4b46] text-white text-[15px] font-medium inline-flex items-center gap-2.5 hover:scale-[1.03] transition-all duration-300"
+>
+  <ShoppingCart size={16} strokeWidth={2} />
+  Buy the Book
+</a>
           </motion.div>
         </div>
       </div>
