@@ -171,84 +171,89 @@ mx-auto
           >
 
             {/* BUTTON 2 */}
-            <button
-              className="
-                w-full
-                sm:w-auto
+           <a
+  href="https://www.amazon.com/s?k=9798181772076&crid=YUNKBHBTJU9Z&sprefix=9798181772076%2Caps%2C362&ref=nb_sb_noss"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="
+    w-full
+    sm:w-auto
 
-                h-[48px]
+    h-[48px]
 
-                px-[24px]
-                md:px-[28px]
+    px-[24px]
+    md:px-[28px]
 
-                rounded-full
+    rounded-full
 
-                bg-transparent
-                border border-[#8B6824]
+    bg-transparent
+    border border-[#8B6824]
 
-                hover:border-[#b98a33]
-                hover:bg-[#1b1307]
+    hover:border-[#b98a33]
+    hover:bg-[#1b1307]
 
-                text-[#F0B84D]
-                hover:text-[#ffd06a]
+    text-[#F0B84D]
+    hover:text-[#ffd06a]
 
-                text-[11px]
-                md:text-[12px]
+    text-[11px]
+    md:text-[12px]
 
-                font-semibold
+    font-semibold
 
-                flex items-center justify-center
-                gap-[8px]
+    flex items-center justify-center
+    gap-[8px]
 
-                transition-all duration-300
-              "
-            >
-              <ShoppingCart size={12} strokeWidth={2} />
-
-              <span className="leading-none">
-                Verre Neven — Dutch
-              </span>
-            </button>
+    transition-all duration-300
+  "
+>
+  <ShoppingCart size={12} strokeWidth={2} />
+  <span className="leading-none">
+    Verre Neven — Dutch
+  </span>
+</a>
 
             {/* BUTTON 1 */}
-            <button
-              className="
-                w-full
-                sm:w-auto
+            <a
+  href="https://www.amazon.com/s?k=9798181772670&crid=1ZNYHYS8W3ZDE&sprefix=9798181772670%2Caps%2C518&ref=nb_sb_noss"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="
+    w-full
+    sm:w-auto
 
-                h-[48px]
+    h-[48px]
 
-                px-[28px]
-                md:px-[32px]
+    px-[28px]
+    md:px-[32px]
 
-                rounded-full
+    rounded-full
 
-                bg-[#E7A11B]
-                hover:bg-[#f0ae33]
+    bg-[#E7A11B]
+    hover:bg-[#f0ae33]
 
-                text-[#17120c]
+    text-[#17120c]
 
-                text-[11px]
-                md:text-[12px]
+    text-[11px]
+    md:text-[12px]
 
-                font-semibold
+    font-semibold
 
-                flex items-center justify-center
-                gap-[8px]
+    flex items-center justify-center
+    gap-[8px]
 
-                border border-[#E7A11B]
+    border border-[#E7A11B]
 
-                shadow-[0_10px_26px_rgba(231,161,27,0.22)]
+    shadow-[0_10px_26px_rgba(231,161,27,0.22)]
 
-                transition-all duration-300
-              "
-            >
-              <ShoppingCart size={12} strokeWidth={2} />
+    transition-all duration-300
+  "
+>
+  <ShoppingCart size={12} strokeWidth={2} />
 
-              <span className="leading-none">
-                Distant Cousins — English
-              </span>
-            </button>
+  <span className="leading-none">
+    Distant Cousins — English
+  </span>
+</a>
           </div>
         </div>
 
