@@ -8,6 +8,11 @@ const COVER_NL = '/book2.jpg';
 const COVER_EN_FALLBACK = '/images/the-book/cover-en.svg';
 const COVER_NL_FALLBACK = '/images/the-book/cover-nl.svg';
 
+const BOOK_LINKS = {
+  en: 'https://www.amazon.com/s?k=9798181772670&crid=1ZNYHYS8W3ZDE&sprefix=9798181772670%2Caps%2C518&ref=nb_sb_noss',
+  nl: 'https://www.amazon.com/s?k=9798181772076&crid=YUNKBHBTJU9Z&sprefix=9798181772076%2Caps%2C362&ref=nb_sb_noss',
+};
+
 const synopsisEN = {
   title: 'Distant Cousins',
   subtitle: 'English Edition',
@@ -169,7 +174,8 @@ export default function TheBook() {
 
               <motion.div className="pt-8 lg:pt-10 flex flex-col sm:flex-row flex-wrap items-stretch sm:items-center gap-4">
                 <a
-                  href="#"
+                 href={BOOK_LINKS[activeLang]}
+                  target="_blank"
                   className="inline-flex items-center justify-center gap-2.5 h-[48px] px-8 rounded-full bg-[#0d4b46] text-white text-[15px] font-medium hover:bg-[#0f5a54] transition-colors duration-300"
                 >
                   <ShoppingCart size={17} strokeWidth={2} />

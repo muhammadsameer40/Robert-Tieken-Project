@@ -29,7 +29,7 @@ export default function Excerpt() {
           <div className="literary-text text-black space-y-6 font-accent">
            
             <p>
-              Het is vrijdagavond en Robert stapt net zijn koude woning binnen als hij de telefoon hoort in de woonkamer. Haastig gooit hij zijn tas op de grond en snelt naar de kamer om de telefoon op te nemen.
+              Het is vrijdagavond en Robert stapt net zijn koude woning binnen als hij de telefoon hoort in de woonkamer. Haastig plaatst hij zijn tas op de grond en snelt naar de kamer om de telefoon op te nemen.
 
 "Met Robert de Haas spreekt u," zegt hij.
 
